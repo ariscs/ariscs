@@ -2,7 +2,7 @@
 
 # Hello everyone! 👋 
 
-My name is Aris and I’m a software engineer student. I’m from Mexico, living in Queretaro and currently working at Scania. You can find me on&nbsp;<a href="https://www.linkedin.com/in/aristidescamacho/"><img height="20" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>
+My name is Aris and I’m a software engineer student. I’m from Mexico, living in Queretaro and currently working at Scania. You can find me on&nbsp;<a href="https://www.linkedin.com/in/aristidescamacho/"><img height="20" src="https://github.com/ariscs/ariscs/blob/main/icons/linkedin.png?raw=true"></a>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
