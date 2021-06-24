@@ -2,13 +2,14 @@
 
 # Hello everyone! 👋 
 
-My name is Aris and I’m a software engineer student. I’m from Mexico, living in Queretaro and currently working at Scania. You can find me on&nbsp;<a href="https://www.linkedin.com/in/aristidescamacho/"><img height="20" src="https://github.com/ariscs/ariscs/blob/main/icons/linkedin.png?raw=true"></a>
+My name is Aris and I’m a recent graduate software engineer. I’m from Mexico, living in Queretaro and currently working as freelance. You can find me on&nbsp;<a href="https://www.linkedin.com/in/aristidescamacho/"><img height="20" src="https://github.com/ariscs/ariscs/blob/main/icons/linkedin.png?raw=true"></a>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently working on a personal webpage
+- 🌱 I’m currently learning Deno using Typescript
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me:
+... Email: aristides.camsan@gmail.com
+... Twitter: @aristequiere
+<!-- - ⚡ Fun fact:  -->
