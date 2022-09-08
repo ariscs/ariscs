@@ -10,7 +10,7 @@
 
 &nbsp;
 
-- 🔭 I'm currently working mainly with **Next.js** alongside other modern technologies and tools such as **Tailwind**, **Storybook**, **Vite**, and **GraphQL**.
+- 🔭 I'm currently working mainly with **Next.js** alongside other modern technologies and tools such as **Tailwind**, **Storybook**, **Vite**, and **GraphQL**. Also working with **Odoo** every now and then as part of my job as a dev. 
 - 🌱 I'm currently learning about **Monorepo** strategies and fooling around with **Astro** using **Svelte** for my component library, and speaking about my soft skills I'm training to become a better leader and collaborator.
 - 👯 I'm looking to collaborate with tech teams looking forward to building a safe space to communicate and work as a team and with companies that care about the career paths of their devs.
 - 🤔 I’m looking for help with my career path as a Software Engineer and how I can become a better collaborator, developer, leader and above all, a better person.
